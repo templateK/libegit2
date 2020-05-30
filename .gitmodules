@@ -1,4 +1,4 @@
 [submodule "libgit2"]
 	path = libgit2
-	url = https://github.com/libgit2/libgit2.git
+	url = git@github-k:templateK/libgit2.git
 	ignore = untracked
